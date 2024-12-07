@@ -1,6 +1,6 @@
 # Controle de Gastos
-
 ---
+Este projeto foi criado como parte de um desafio em colaboração com a **DIO** para promover aprendizado e prática em organização de dados e análises financeiras.
 
 ## **Descrição do Projeto**
 Este repositório contém uma planilha de controle de gastos, permitindo a análise de entradas e saídas financeiras. A planilha foi desenvolvida para ajudar no acompanhamento de despesas, identificar categorias com maior impacto no orçamento e monitorar o status de pagamentos. É uma ferramenta prática e eficiente para quem busca gerenciar suas finanças pessoais ou empresariais.
